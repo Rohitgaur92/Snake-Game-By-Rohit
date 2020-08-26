@@ -12,7 +12,7 @@ Type pip install pygame/ pip3 install pygame
 OR
 
 Open Terminal or CMD, then Type pip install -r <path to the game>
-Example: pip install -r c://Users/Downloads/Snake-Gsme-By-Rohit/requirements.txt
+Example: pip install -r c://Users/Downloads/Snake-Game-By-Rohit/requirements.txt
 
 Dont Delete Any Files.. IT MAY CRASH THE GAME!
 
